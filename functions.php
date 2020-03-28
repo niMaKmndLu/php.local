@@ -16,6 +16,7 @@
         return array(
             array('id' => 1, 'name' => 'nima', 'email' => 'nima@gmail.com'),
             array('id' => 2, 'name' => 'samria', 'email' => 'samira@gmail.com'),
-            array('id' => 3, 'name' => 'mahsa', 'email' => 'mahsa@gmail.com')
+            array('id' => 3, 'name' => 'mahsa', 'email' => 'mahsa@gmail.com'),
+            array('id' => 3, 'name' => 'saeid', 'email' => 'saeid@gmail.com'),
         );
     }
